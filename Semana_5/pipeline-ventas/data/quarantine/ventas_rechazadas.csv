@@ -1,0 +1,15 @@
+venta_id,producto_id,cantidad,fecha,cliente_id,sede,producto,categoria,precio_unitario,costo_unitario,ingreso,margen,regla
+V0001,CAF,0,2026-08-29,C018,Norte,Café con leche 9 oz,Bebida caliente,2000,800,0,0,rangos
+V0009,CAF,-1,2026-08-24,C020,Centro,Café con leche 9 oz,Bebida caliente,2000,800,-2000,-1200,rangos
+V0029,TIN,0,2026-08-26,C056,Norte,Tinto campesino,Bebida caliente,1500,500,0,0,rangos
+V0035,AGU,0,2026-08-04,C006,Norte,Agua sin gas 420 ml,Bebida fría,1000,400,0,0,rangos
+V0040,TIN,0,2026-08-07,C012,Centro,Tinto campesino,Bebida caliente,1500,500,0,0,rangos
+V0072,TIN,0,2026-08-25,C050,Centro,Tinto campesino,Bebida caliente,1500,500,0,0,rangos
+V0075,AGU,0,2026-08-10,C011,Centro,Agua sin gas 420 ml,Bebida fría,1000,400,0,0,rangos
+V0095,TIN,0,2026-07-31,C041,Centro,Tinto campesino,Bebida caliente,1500,500,0,0,rangos
+V0166,TIN,0,2026-08-05,C023,Centro,Tinto campesino,Bebida caliente,1500,500,0,0,rangos
+V0170,TIN,0,2026-08-03,C008,Norte,Tinto campesino,Bebida caliente,1500,500,0,0,rangos
+V0347,CAF,-1,2026-08-01,C050,Centro,Café con leche 9 oz,Bebida caliente,2000,800,-2000,-1200,rangos
+V0380,AGU,0,2026-08-17,C013,Norte,Agua sin gas 420 ml,Bebida fría,1000,400,0,0,rangos
+V0391,CAF,0,2026-08-29,C008,Norte,Café con leche 9 oz,Bebida caliente,2000,800,0,0,rangos
+V0419,CAF,0,2026-08-27,C005,Norte,Café con leche 9 oz,Bebida caliente,2000,800,0,0,rangos

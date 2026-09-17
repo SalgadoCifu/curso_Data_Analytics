@@ -1,0 +1,3430 @@
+{
+  "meta": {
+    "endpoint": "https://pos.aromaandino.co/api/v2/ventas",
+    "metodo": "GET",
+    "parametros": {
+      "desde": "2026-07-31",
+      "hasta": "2026-08-29",
+      "sedes": [
+        "Centro",
+        "Norte"
+      ]
+    },
+    "request_id": "req-dd9de30f739c",
+    "descargado": "2026-08-30T06:15:00-05:00",
+    "registros": 426,
+    "pagina": 1,
+    "paginas": 1,
+    "nota": "Incluye anulaciones y reversas del POS (cantidad <= 0)."
+  },
+  "data": [
+    {
+      "venta_id": "V0001",
+      "producto_id": "CAF",
+      "cantidad": 0,
+      "fecha": "2026-08-29",
+      "cliente_id": "C018",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0002",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C001",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0003",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C038",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0004",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0005",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C044",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0006",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-22",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0007",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C029",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0008",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C014",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0009",
+      "producto_id": "CAF",
+      "cantidad": -1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0010",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C018",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0011",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C057",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0012",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C017",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0013",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C034",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0014",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C056",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0015",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C041",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0016",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C027",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0017",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C025",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0018",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C031",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0019",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C026",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0020",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C050",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0021",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C003",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0022",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C013",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0023",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C021",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0024",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C049",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0025",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C011",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0026",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C019",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0027",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C053",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0028",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0029",
+      "producto_id": "TIN",
+      "cantidad": 0,
+      "fecha": "2026-08-26",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0030",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C046",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0031",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C021",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0032",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C022",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0033",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C030",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0034",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C050",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0035",
+      "producto_id": "AGU",
+      "cantidad": 0,
+      "fecha": "2026-08-04",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0036",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C027",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0037",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0038",
+      "producto_id": "SAN",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C059",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0039",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0040",
+      "producto_id": "TIN",
+      "cantidad": 0,
+      "fecha": "2026-08-07",
+      "cliente_id": "C012",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0041",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C029",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0042",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C058",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0043",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0044",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C004",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0045",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0046",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C025",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0047",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C049",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0048",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0049",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C011",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0050",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C036",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0051",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C042",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0052",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C013",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0053",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C005",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0054",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C014",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0055",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C060",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0056",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C058",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0057",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C027",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0058",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C011",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0059",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C017",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0060",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C021",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0061",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C009",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0062",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C032",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0063",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C047",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0064",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C004",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0065",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C013",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0066",
+      "producto_id": "CAF",
+      "cantidad": 2,
+      "fecha": "2026-08-04",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0067",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C037",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0068",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C016",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0069",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C030",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0070",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0071",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C011",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0072",
+      "producto_id": "TIN",
+      "cantidad": 0,
+      "fecha": "2026-08-25",
+      "cliente_id": "C050",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0073",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C036",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0074",
+      "producto_id": "GAL",
+      "cantidad": 2,
+      "fecha": "2026-08-19",
+      "cliente_id": "C050",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0075",
+      "producto_id": "AGU",
+      "cantidad": 0,
+      "fecha": "2026-08-10",
+      "cliente_id": "C011",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0076",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C007",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0077",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C002",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0078",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C055",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0079",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C060",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0080",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C028",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0081",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C034",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0082",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C041",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0083",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C030",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0084",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C046",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0085",
+      "producto_id": "AGU",
+      "cantidad": 2,
+      "fecha": "2026-08-13",
+      "cliente_id": "C007",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0086",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C040",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0087",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0088",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C004",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0089",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C029",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0090",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0091",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C045",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0092",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C049",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0093",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C054",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0094",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C032",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0095",
+      "producto_id": "TIN",
+      "cantidad": 0,
+      "fecha": "2026-07-31",
+      "cliente_id": "C041",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0096",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C021",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0097",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C059",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0098",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C023",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0099",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C050",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0100",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C050",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0101",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C020",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0102",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C040",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0103",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C016",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0104",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0105",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C048",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0106",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C005",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0107",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C050",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0108",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C049",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0109",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C007",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0110",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C001",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0111",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C026",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0112",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C017",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0113",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C036",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0114",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C032",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0115",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C053",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0116",
+      "producto_id": "GAL",
+      "cantidad": 2,
+      "fecha": "2026-08-28",
+      "cliente_id": "C033",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0117",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C021",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0118",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C051",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0119",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C059",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0120",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C035",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0121",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C051",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0122",
+      "producto_id": "GAL",
+      "cantidad": 2,
+      "fecha": "2026-08-17",
+      "cliente_id": "C047",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0123",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C042",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0124",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C011",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0125",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C022",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0126",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C030",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0127",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C013",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0128",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C024",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0129",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C021",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0130",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C010",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0131",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C038",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0132",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C019",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0133",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C009",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0134",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C007",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0135",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C025",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0136",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C044",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0137",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C057",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0138",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C014",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0139",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C018",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0140",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C038",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0141",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0142",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C031",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0143",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C046",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0144",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0145",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C037",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0146",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0147",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C040",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0148",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C048",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0149",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C004",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0150",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C014",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0151",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C013",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0152",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C013",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0153",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C036",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0154",
+      "producto_id": "GAL",
+      "cantidad": 2,
+      "fecha": "2026-08-27",
+      "cliente_id": "C020",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0155",
+      "producto_id": "TEA",
+      "cantidad": 2,
+      "fecha": "2026-08-18",
+      "cliente_id": "C013",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0156",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C007",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0157",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C019",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0158",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C047",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0159",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C056",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0160",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C038",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0161",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C024",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0162",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C013",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0163",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C040",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0164",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C020",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0165",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C016",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0166",
+      "producto_id": "TIN",
+      "cantidad": 0,
+      "fecha": "2026-08-05",
+      "cliente_id": "C023",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0167",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C041",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0168",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C054",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0169",
+      "producto_id": "JUG",
+      "cantidad": 2,
+      "fecha": "2026-08-06",
+      "cliente_id": "C046",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0170",
+      "producto_id": "TIN",
+      "cantidad": 0,
+      "fecha": "2026-08-03",
+      "cliente_id": "C008",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0171",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C004",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0172",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C035",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0173",
+      "producto_id": "AGU",
+      "cantidad": 2,
+      "fecha": "2026-08-20",
+      "cliente_id": "C036",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0174",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C028",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0175",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C016",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0176",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0177",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C031",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0178",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C029",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0179",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C045",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0180",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C003",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0181",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C004",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0182",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C028",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0183",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C043",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0184",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C015",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0185",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C005",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0186",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C015",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0187",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C010",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0188",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0189",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C009",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0190",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C021",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0191",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C034",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0192",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C039",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0193",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C059",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0194",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0195",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C017",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0196",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C033",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0197",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C002",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0198",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C008",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0199",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-10",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0200",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C024",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0201",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C025",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0202",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C023",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0203",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C050",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0204",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C006",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0205",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C019",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0206",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C031",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0207",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C004",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0208",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C012",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0209",
+      "producto_id": "AGU",
+      "cantidad": 2,
+      "fecha": "2026-08-27",
+      "cliente_id": "C058",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0210",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C007",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0211",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C001",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0212",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C007",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0213",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C010",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0214",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C022",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0215",
+      "producto_id": "BRO",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C031",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0216",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C004",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0217",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C045",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0218",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C059",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0219",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C012",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0220",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0221",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C058",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0222",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C040",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0223",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C021",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0224",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C059",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0225",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C004",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0226",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C021",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0227",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0228",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C006",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0229",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C032",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0230",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C041",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0231",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C050",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0232",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C037",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0233",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C058",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0234",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C030",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0235",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C059",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0236",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C011",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0237",
+      "producto_id": "AGU",
+      "cantidad": 2,
+      "fecha": "2026-08-03",
+      "cliente_id": "C023",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0238",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C034",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0239",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C035",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0240",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-27",
+      "cliente_id": "C034",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0241",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C035",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0242",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0243",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C043",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0244",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C026",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0245",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C056",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0246",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C010",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0247",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C057",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0248",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C009",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0249",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C014",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0250",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C034",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0251",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C001",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0252",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C053",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0253",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C024",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0254",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C013",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0255",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C001",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0256",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C046",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0257",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C024",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0258",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0259",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-14",
+      "cliente_id": "C041",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0260",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C002",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0261",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C025",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0262",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C023",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0263",
+      "producto_id": "TEA",
+      "cantidad": 2,
+      "fecha": "2026-07-31",
+      "cliente_id": "C039",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0264",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0265",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C002",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0266",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C020",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0267",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C011",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0268",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C032",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0269",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C046",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0270",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C048",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0271",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C024",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0272",
+      "producto_id": "AGU",
+      "cantidad": 2,
+      "fecha": "2026-08-16",
+      "cliente_id": "C040",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0273",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C041",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0274",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C055",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0275",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0276",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C050",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0277",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C011",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0278",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C010",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0279",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C045",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0280",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C015",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0281",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C026",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0282",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C008",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0283",
+      "producto_id": "AGU",
+      "cantidad": 2,
+      "fecha": "2026-08-08",
+      "cliente_id": "C032",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0284",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0285",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C024",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0286",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C055",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0287",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-19",
+      "cliente_id": "C013",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0288",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C033",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0289",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C020",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0290",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C040",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0291",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C002",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0292",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C027",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0293",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C018",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0294",
+      "producto_id": "EMP",
+      "cantidad": 2,
+      "fecha": "2026-08-23",
+      "cliente_id": "C022",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0295",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0296",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C047",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0297",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-08",
+      "cliente_id": "C013",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0298",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C026",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0299",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C006",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0300",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C043",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0301",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C049",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0302",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C007",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0303",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C026",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0304",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C019",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0305",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C046",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0306",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C029",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0307",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C003",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0308",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C003",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0309",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0310",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C029",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0311",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C009",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0312",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C050",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0313",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C018",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0314",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C038",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0315",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C022",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0316",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C051",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0317",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C044",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0318",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C024",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0319",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C054",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0320",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C042",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0321",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0322",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C045",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0323",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C047",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0324",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C060",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0325",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C035",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0326",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C060",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0327",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C010",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0328",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C010",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0329",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C049",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0330",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C055",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0331",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C018",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0332",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C018",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0333",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C057",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0334",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C046",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0335",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C041",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0336",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-17",
+      "cliente_id": "C059",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0337",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C051",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0338",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C060",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0339",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C050",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0340",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C028",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0341",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-17",
+      "cliente_id": "C032",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0342",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C039",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0343",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0344",
+      "producto_id": "BRO",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C059",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0345",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-29",
+      "cliente_id": "C003",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0346",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C016",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0347",
+      "producto_id": "CAF",
+      "cantidad": -1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C050",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0348",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C057",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0349",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C023",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0350",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C008",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0351",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C001",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0352",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-27",
+      "cliente_id": "C034",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0353",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C048",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0354",
+      "producto_id": "TIN",
+      "cantidad": 2,
+      "fecha": "2026-08-29",
+      "cliente_id": "C057",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0355",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C008",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0356",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-07-31",
+      "cliente_id": "C008",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0357",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0358",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C016",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0359",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C045",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0360",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C040",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0361",
+      "producto_id": "CAF",
+      "cantidad": 2,
+      "fecha": "2026-08-26",
+      "cliente_id": "C053",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0362",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C025",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0363",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-01",
+      "cliente_id": "C006",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0364",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C054",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0365",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C011",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0366",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C007",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0367",
+      "producto_id": "BRO",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C032",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0368",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0369",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-25",
+      "cliente_id": "C035",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0370",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C015",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0371",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C034",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0372",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C004",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0373",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C052",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0374",
+      "producto_id": "JUG",
+      "cantidad": 1,
+      "fecha": "2026-08-02",
+      "cliente_id": "C031",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0375",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-18",
+      "cliente_id": "C007",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0376",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C002",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0377",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-20",
+      "cliente_id": "C046",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0378",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C023",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0379",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C023",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0380",
+      "producto_id": "AGU",
+      "cantidad": 0,
+      "fecha": "2026-08-17",
+      "cliente_id": "C013",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0381",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C042",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0382",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C048",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0383",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-08",
+      "cliente_id": "C020",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0384",
+      "producto_id": "SAN",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C036",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0385",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0386",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-05",
+      "cliente_id": "C043",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0387",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C034",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0388",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C024",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0389",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-11",
+      "cliente_id": "C023",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0390",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C017",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0391",
+      "producto_id": "CAF",
+      "cantidad": 0,
+      "fecha": "2026-08-29",
+      "cliente_id": "C008",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0392",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C024",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0393",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C002",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0394",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C014",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0395",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C057",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0396",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-29",
+      "cliente_id": "C022",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0397",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-21",
+      "cliente_id": "C026",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0398",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C056",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0399",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C060",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0400",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C012",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0401",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-06",
+      "cliente_id": "C001",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0402",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-26",
+      "cliente_id": "C042",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0403",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-13",
+      "cliente_id": "C032",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0404",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C035",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0405",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-28",
+      "cliente_id": "C011",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0406",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C040",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0407",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C054",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0408",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-16",
+      "cliente_id": "C029",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0409",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C053",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0410",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-19",
+      "cliente_id": "C003",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0411",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-23",
+      "cliente_id": "C012",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0412",
+      "producto_id": "TIN",
+      "cantidad": 1,
+      "fecha": "2026-08-07",
+      "cliente_id": "C024",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0413",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C006",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0414",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C011",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0415",
+      "producto_id": "SAN",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C011",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0416",
+      "producto_id": "TEA",
+      "cantidad": 1,
+      "fecha": "2026-08-24",
+      "cliente_id": "C049",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0417",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C050",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0418",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-09",
+      "cliente_id": "C046",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0419",
+      "producto_id": "CAF",
+      "cantidad": 0,
+      "fecha": "2026-08-27",
+      "cliente_id": "C005",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0420",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-15",
+      "cliente_id": "C002",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0421",
+      "producto_id": "CAF",
+      "cantidad": 1,
+      "fecha": "2026-08-12",
+      "cliente_id": "C046",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0422",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-10",
+      "cliente_id": "C005",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0423",
+      "producto_id": "AGU",
+      "cantidad": 1,
+      "fecha": "2026-08-04",
+      "cliente_id": "C020",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0424",
+      "producto_id": "EMP",
+      "cantidad": 1,
+      "fecha": "2026-08-22",
+      "cliente_id": "C012",
+      "sede": "Centro"
+    },
+    {
+      "venta_id": "V0425",
+      "producto_id": "GAL",
+      "cantidad": 1,
+      "fecha": "2026-08-03",
+      "cliente_id": "C059",
+      "sede": "Norte"
+    },
+    {
+      "venta_id": "V0426",
+      "producto_id": "AGU",
+      "cantidad": 2,
+      "fecha": "2026-08-02",
+      "cliente_id": "C033",
+      "sede": "Norte"
+    }
+  ]
+}

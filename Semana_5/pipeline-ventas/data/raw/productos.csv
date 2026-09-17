@@ -1,0 +1,10 @@
+producto_id,nombre,categoria,precio_unitario,costo_unitario
+AGU,Agua sin gas 420 ml,Bebida fría,1000,400
+TIN,Tinto campesino,Bebida caliente,1500,500
+TEA,Té de hierbas,Bebida caliente,1500,600
+GAL,Galleta de avena,Snack,1500,700
+CAF,Café con leche 9 oz,Bebida caliente,2000,800
+EMP,Empanada de carne,Snack,2000,900
+JUG,Jugo de naranja natural,Bebida fría,2500,1200
+BRO,Brownie de chocolate,Snack,2500,1100
+SAN,Sándwich de pollo,Snack,3000,1500

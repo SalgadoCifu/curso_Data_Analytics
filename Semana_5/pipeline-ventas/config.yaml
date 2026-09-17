@@ -1,0 +1,27 @@
+# ── Configuración del pipeline de ventas ─────────────────────────────────
+# Todos los pasos leen sus parámetros de este archivo.
+# Ningún valor de negocio ni ruta vive dentro del código.
+
+proyecto:
+  nombre: pipeline-ventas
+  organizacion: Aroma Andino S.A.S.
+  descripcion: >
+    Pipeline analítico del punto de venta piloto de Aroma Andino S.A.S.
+    (barras Centro y Norte). Área de Analítica de Datos.
+
+rutas:                       # relativas a la raíz del repositorio
+  raw: data/raw
+  staging: data/staging
+  curated: data/curated
+  quarantine: data/quarantine
+  docs: docs
+  db: data/curated/ventas.db
+
+parametros:
+  seed: 42                   # gobierna toda generación y muestreo
+  fecha_corte: "2026-08-30"  # el tiempo es un parámetro, no el reloj
+  dias_ventana: 30           # ventana de análisis hacia atrás desde el corte
+
+umbrales:
+  frescura_dias: 7           # máx(fecha) debe estar a <= N días del corte
+  nulos_criticos_pct: 0.0    # % de nulos tolerado en campos críticos

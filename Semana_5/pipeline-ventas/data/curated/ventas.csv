@@ -1,0 +1,413 @@
+venta_id,fecha,cliente_id,producto_id,producto,categoria,sede,cantidad,precio_unitario,costo_unitario,ingreso,margen
+V0002,2026-08-07,C001,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0003,2026-08-23,C038,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0004,2026-08-15,C020,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0005,2026-08-08,C044,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0006,2026-08-22,C020,TIN,Tinto campesino,Bebida caliente,Centro,2,1500,500,3000,2000
+V0007,2026-08-01,C029,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0008,2026-08-18,C014,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0010,2026-08-23,C018,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0011,2026-08-07,C057,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0012,2026-08-22,C017,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0013,2026-08-17,C034,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0014,2026-08-18,C056,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0015,2026-08-22,C041,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0016,2026-08-04,C027,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0017,2026-08-28,C025,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0018,2026-08-16,C031,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0019,2026-08-09,C026,JUG,Jugo de naranja natural,Bebida fría,Norte,1,2500,1200,2500,1300
+V0020,2026-08-03,C050,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0021,2026-08-08,C003,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0022,2026-08-20,C013,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0023,2026-08-04,C021,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0024,2026-08-25,C049,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0025,2026-08-25,C011,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0026,2026-08-19,C019,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0027,2026-08-10,C053,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0028,2026-08-02,C028,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0030,2026-08-26,C046,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0031,2026-08-29,C021,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0032,2026-08-13,C022,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0033,2026-08-18,C030,CAF,Café con leche 9 oz,Bebida caliente,Norte,1,2000,800,2000,1200
+V0034,2026-08-16,C050,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0036,2026-08-07,C027,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0037,2026-08-29,C028,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0038,2026-08-28,C059,SAN,Sándwich de pollo,Snack,Norte,1,3000,1500,3000,1500
+V0039,2026-08-13,C052,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0041,2026-08-13,C029,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0042,2026-08-27,C058,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0043,2026-08-08,C052,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0044,2026-08-15,C004,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0045,2026-08-08,C028,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0046,2026-08-11,C025,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0047,2026-08-17,C049,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0048,2026-08-09,C006,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0049,2026-08-15,C011,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0050,2026-07-31,C036,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0051,2026-08-25,C042,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0052,2026-08-22,C013,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0053,2026-08-18,C005,CAF,Café con leche 9 oz,Bebida caliente,Norte,1,2000,800,2000,1200
+V0054,2026-08-29,C014,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0055,2026-08-16,C060,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0056,2026-08-27,C058,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0057,2026-08-08,C027,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0058,2026-08-18,C011,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0059,2026-08-28,C017,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0060,2026-08-02,C021,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0061,2026-08-27,C009,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0062,2026-08-08,C032,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0063,2026-08-04,C047,JUG,Jugo de naranja natural,Bebida fría,Centro,1,2500,1200,2500,1300
+V0064,2026-08-13,C004,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0065,2026-08-17,C013,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0066,2026-08-04,C006,CAF,Café con leche 9 oz,Bebida caliente,Norte,2,2000,800,4000,2400
+V0067,2026-08-01,C037,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0068,2026-08-23,C016,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0069,2026-08-13,C030,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0070,2026-08-01,C020,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0071,2026-08-01,C011,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0073,2026-08-25,C036,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0074,2026-08-19,C050,GAL,Galleta de avena,Snack,Norte,2,1500,700,3000,1600
+V0076,2026-08-05,C007,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0077,2026-08-02,C002,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0078,2026-08-12,C055,JUG,Jugo de naranja natural,Bebida fría,Centro,1,2500,1200,2500,1300
+V0079,2026-08-13,C060,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0080,2026-08-07,C028,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0081,2026-08-24,C034,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0082,2026-08-10,C041,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0083,2026-08-05,C030,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0084,2026-08-02,C046,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0085,2026-08-13,C007,AGU,Agua sin gas 420 ml,Bebida fría,Norte,2,1000,400,2000,1200
+V0086,2026-08-18,C040,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0087,2026-08-04,C020,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0088,2026-08-25,C004,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0089,2026-08-05,C029,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0090,2026-08-22,C020,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0091,2026-07-31,C045,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0092,2026-08-21,C049,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0093,2026-08-13,C054,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0094,2026-08-09,C032,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0096,2026-08-12,C021,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0097,2026-08-03,C059,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0098,2026-08-13,C023,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0099,2026-08-02,C050,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0100,2026-08-28,C050,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0101,2026-08-22,C020,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0102,2026-08-22,C040,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0103,2026-08-24,C016,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0104,2026-08-27,C052,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0105,2026-08-22,C048,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0106,2026-07-31,C005,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0107,2026-08-05,C050,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0108,2026-08-15,C049,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0109,2026-08-28,C007,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0110,2026-08-12,C001,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0111,2026-08-16,C026,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0112,2026-08-01,C017,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0113,2026-08-02,C036,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0114,2026-08-13,C032,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0115,2026-08-07,C053,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0116,2026-08-28,C033,GAL,Galleta de avena,Snack,Centro,2,1500,700,3000,1600
+V0117,2026-08-14,C021,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0118,2026-08-18,C051,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0119,2026-08-17,C059,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0120,2026-08-17,C035,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0121,2026-08-29,C051,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0122,2026-08-17,C047,GAL,Galleta de avena,Snack,Centro,2,1500,700,3000,1600
+V0123,2026-08-03,C042,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0124,2026-08-04,C011,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0125,2026-08-25,C022,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0126,2026-08-07,C030,JUG,Jugo de naranja natural,Bebida fría,Centro,1,2500,1200,2500,1300
+V0127,2026-08-11,C013,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0128,2026-08-28,C024,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0129,2026-08-07,C021,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0130,2026-08-26,C010,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0131,2026-08-04,C038,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0132,2026-08-26,C019,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0133,2026-08-22,C009,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0134,2026-08-01,C007,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0135,2026-08-20,C025,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0136,2026-08-24,C044,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0137,2026-08-25,C057,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0138,2026-08-21,C014,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0139,2026-07-31,C018,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0140,2026-08-19,C038,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0141,2026-08-18,C056,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0142,2026-08-16,C031,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0143,2026-08-18,C046,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0144,2026-08-19,C028,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0145,2026-08-13,C037,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0146,2026-08-16,C028,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0147,2026-08-26,C040,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0148,2026-08-23,C048,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0149,2026-08-23,C004,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0150,2026-08-21,C014,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0151,2026-08-05,C013,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0152,2026-08-27,C013,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0153,2026-08-09,C036,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0154,2026-08-27,C020,GAL,Galleta de avena,Snack,Norte,2,1500,700,3000,1600
+V0155,2026-08-18,C013,TEA,Té de hierbas,Bebida caliente,Centro,2,1500,600,3000,1800
+V0156,2026-08-04,C007,CAF,Café con leche 9 oz,Bebida caliente,Norte,1,2000,800,2000,1200
+V0157,2026-08-18,C019,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0158,2026-08-12,C047,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0159,2026-08-26,C056,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0160,2026-08-14,C038,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0161,2026-08-11,C024,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0162,2026-08-25,C013,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0163,2026-08-14,C040,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0164,2026-08-12,C020,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0165,2026-08-03,C016,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0167,2026-08-10,C041,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0168,2026-08-12,C054,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0169,2026-08-06,C046,JUG,Jugo de naranja natural,Bebida fría,Centro,2,2500,1200,5000,2600
+V0171,2026-08-28,C004,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0172,2026-08-12,C035,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0173,2026-08-20,C036,AGU,Agua sin gas 420 ml,Bebida fría,Norte,2,1000,400,2000,1200
+V0174,2026-08-28,C028,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0175,2026-08-24,C016,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0176,2026-08-01,C028,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0177,2026-08-06,C031,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0178,2026-08-22,C029,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0179,2026-08-14,C045,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0180,2026-08-28,C003,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0181,2026-08-27,C004,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0182,2026-08-04,C028,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0183,2026-07-31,C043,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0184,2026-08-08,C015,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0185,2026-08-21,C005,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0186,2026-08-20,C015,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0187,2026-08-09,C010,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0188,2026-08-05,C056,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0189,2026-08-14,C009,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0190,2026-08-22,C021,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0191,2026-08-13,C034,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0192,2026-08-02,C039,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0193,2026-08-01,C059,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0194,2026-08-10,C028,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0195,2026-08-11,C017,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0196,2026-08-26,C033,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0197,2026-08-22,C002,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0198,2026-08-18,C008,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0199,2026-08-10,C028,TIN,Tinto campesino,Bebida caliente,Centro,2,1500,500,3000,2000
+V0200,2026-08-27,C024,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0201,2026-08-09,C025,CAF,Café con leche 9 oz,Bebida caliente,Norte,1,2000,800,2000,1200
+V0202,2026-08-06,C023,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0203,2026-08-03,C050,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0204,2026-07-31,C006,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0205,2026-08-17,C019,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0206,2026-08-07,C031,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0207,2026-08-12,C004,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0208,2026-08-20,C012,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0209,2026-08-27,C058,AGU,Agua sin gas 420 ml,Bebida fría,Norte,2,1000,400,2000,1200
+V0210,2026-08-05,C007,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0211,2026-08-16,C001,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0212,2026-08-14,C007,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0213,2026-08-25,C010,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0214,2026-08-10,C022,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0215,2026-08-19,C031,BRO,Brownie de chocolate,Snack,Norte,1,2500,1100,2500,1400
+V0216,2026-08-12,C004,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0217,2026-08-18,C045,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0218,2026-08-09,C059,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0219,2026-08-28,C012,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0220,2026-08-13,C006,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0221,2026-08-16,C058,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0222,2026-08-04,C040,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0223,2026-08-09,C021,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0224,2026-08-09,C059,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0225,2026-08-15,C004,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0226,2026-08-12,C021,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0227,2026-08-13,C052,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0228,2026-08-12,C006,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0229,2026-08-08,C032,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0230,2026-08-09,C041,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0231,2026-08-11,C050,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0232,2026-08-02,C037,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0233,2026-08-21,C058,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0234,2026-08-29,C030,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0235,2026-08-09,C059,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0236,2026-08-15,C011,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0237,2026-08-03,C023,AGU,Agua sin gas 420 ml,Bebida fría,Centro,2,1000,400,2000,1200
+V0238,2026-08-16,C034,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0239,2026-08-25,C035,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0240,2026-08-27,C034,TIN,Tinto campesino,Bebida caliente,Centro,2,1500,500,3000,2000
+V0241,2026-08-16,C035,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0242,2026-08-07,C052,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0243,2026-08-04,C043,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0244,2026-08-04,C026,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0245,2026-08-23,C056,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0246,2026-08-19,C010,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0247,2026-08-06,C057,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0248,2026-08-22,C009,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0249,2026-08-03,C014,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0250,2026-08-04,C034,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0251,2026-08-04,C001,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0252,2026-08-14,C053,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0253,2026-08-04,C024,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0254,2026-08-16,C013,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0255,2026-08-11,C001,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0256,2026-08-06,C046,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0257,2026-08-08,C024,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0258,2026-08-24,C052,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0259,2026-08-14,C041,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0260,2026-08-21,C002,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0261,2026-08-26,C025,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0262,2026-07-31,C023,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0263,2026-07-31,C039,TEA,Té de hierbas,Bebida caliente,Norte,2,1500,600,3000,1800
+V0264,2026-08-10,C028,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0265,2026-08-12,C002,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0266,2026-08-27,C020,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0267,2026-08-12,C011,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0268,2026-08-20,C032,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0269,2026-08-04,C046,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0270,2026-08-10,C048,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0271,2026-08-29,C024,JUG,Jugo de naranja natural,Bebida fría,Centro,1,2500,1200,2500,1300
+V0272,2026-08-16,C040,AGU,Agua sin gas 420 ml,Bebida fría,Centro,2,1000,400,2000,1200
+V0273,2026-08-18,C041,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0274,2026-08-28,C055,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0275,2026-08-21,C006,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0276,2026-08-23,C050,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0277,2026-08-05,C011,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0278,2026-08-19,C010,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0279,2026-08-06,C045,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0280,2026-08-12,C015,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0281,2026-08-11,C026,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0282,2026-08-11,C008,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0283,2026-08-08,C032,AGU,Agua sin gas 420 ml,Bebida fría,Norte,2,1000,400,2000,1200
+V0284,2026-08-24,C056,JUG,Jugo de naranja natural,Bebida fría,Norte,1,2500,1200,2500,1300
+V0285,2026-08-28,C024,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0286,2026-08-16,C055,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0287,2026-08-19,C013,TIN,Tinto campesino,Bebida caliente,Norte,2,1500,500,3000,2000
+V0288,2026-08-13,C033,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0289,2026-08-03,C020,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0290,2026-08-09,C040,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0291,2026-08-05,C002,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0292,2026-08-25,C027,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0293,2026-08-13,C018,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0294,2026-08-23,C022,EMP,Empanada de carne,Snack,Centro,2,2000,900,4000,2200
+V0295,2026-08-10,C056,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0296,2026-08-29,C047,JUG,Jugo de naranja natural,Bebida fría,Centro,1,2500,1200,2500,1300
+V0297,2026-08-08,C013,TIN,Tinto campesino,Bebida caliente,Centro,2,1500,500,3000,2000
+V0298,2026-08-09,C026,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0299,2026-08-07,C006,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0300,2026-08-17,C043,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0301,2026-08-03,C049,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0302,2026-08-20,C007,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0303,2026-08-05,C026,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0304,2026-08-21,C019,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0305,2026-08-08,C046,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0306,2026-08-26,C029,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0307,2026-08-08,C003,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0308,2026-08-10,C003,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0309,2026-08-23,C056,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0310,2026-08-22,C029,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0311,2026-08-13,C009,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0312,2026-08-03,C050,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0313,2026-08-22,C018,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0314,2026-08-23,C038,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0315,2026-08-15,C022,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0316,2026-08-07,C051,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0317,2026-08-25,C044,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0318,2026-08-07,C024,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0319,2026-08-11,C054,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0320,2026-08-09,C042,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0321,2026-08-28,C006,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0322,2026-08-15,C045,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0323,2026-08-10,C047,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0324,2026-08-11,C060,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0325,2026-08-05,C035,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0326,2026-08-24,C060,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0327,2026-08-15,C010,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0328,2026-08-28,C010,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0329,2026-08-21,C049,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0330,2026-08-26,C055,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0331,2026-08-01,C018,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0332,2026-08-24,C018,GAL,Galleta de avena,Snack,Centro,1,1500,700,1500,800
+V0333,2026-08-19,C057,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0334,2026-07-31,C046,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0335,2026-08-05,C041,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0336,2026-08-17,C059,TIN,Tinto campesino,Bebida caliente,Centro,2,1500,500,3000,2000
+V0337,2026-08-08,C051,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0338,2026-08-04,C060,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0339,2026-08-25,C050,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0340,2026-08-27,C028,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0341,2026-08-17,C032,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0342,2026-08-25,C039,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0343,2026-08-08,C006,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0344,2026-08-18,C059,BRO,Brownie de chocolate,Snack,Centro,1,2500,1100,2500,1400
+V0345,2026-08-29,C003,TIN,Tinto campesino,Bebida caliente,Norte,2,1500,500,3000,2000
+V0346,2026-08-03,C016,JUG,Jugo de naranja natural,Bebida fría,Norte,1,2500,1200,2500,1300
+V0348,2026-08-08,C057,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0349,2026-08-29,C023,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0350,2026-08-25,C008,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0351,2026-08-10,C001,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0352,2026-08-27,C034,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0353,2026-08-06,C048,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0354,2026-08-29,C057,TIN,Tinto campesino,Bebida caliente,Centro,2,1500,500,3000,2000
+V0355,2026-08-21,C008,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0356,2026-07-31,C008,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0357,2026-08-19,C056,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0358,2026-08-28,C016,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0359,2026-08-07,C045,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0360,2026-08-29,C040,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0361,2026-08-26,C053,CAF,Café con leche 9 oz,Bebida caliente,Centro,2,2000,800,4000,2400
+V0362,2026-08-26,C025,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0363,2026-08-01,C006,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0364,2026-08-20,C054,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0365,2026-08-25,C011,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0366,2026-08-09,C007,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0367,2026-08-19,C032,BRO,Brownie de chocolate,Snack,Centro,1,2500,1100,2500,1400
+V0368,2026-08-15,C052,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0369,2026-08-25,C035,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0370,2026-08-11,C015,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0371,2026-08-22,C034,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0372,2026-08-24,C004,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0373,2026-08-12,C052,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0374,2026-08-02,C031,JUG,Jugo de naranja natural,Bebida fría,Centro,1,2500,1200,2500,1300
+V0375,2026-08-18,C007,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0376,2026-08-08,C002,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0377,2026-08-20,C046,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0378,2026-08-22,C023,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0379,2026-08-13,C023,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0381,2026-08-04,C042,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0382,2026-08-13,C048,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0383,2026-08-08,C020,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0384,2026-08-28,C036,SAN,Sándwich de pollo,Snack,Centro,1,3000,1500,3000,1500
+V0385,2026-08-19,C020,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0386,2026-08-05,C043,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0387,2026-08-12,C034,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0388,2026-08-21,C024,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0389,2026-08-11,C023,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0390,2026-08-21,C017,CAF,Café con leche 9 oz,Bebida caliente,Centro,1,2000,800,2000,1200
+V0392,2026-08-09,C024,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0393,2026-08-29,C002,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0394,2026-08-19,C014,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0395,2026-08-06,C057,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0396,2026-08-29,C022,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0397,2026-08-21,C026,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0398,2026-08-24,C056,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0399,2026-08-04,C060,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0400,2026-08-26,C012,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0401,2026-08-06,C001,TEA,Té de hierbas,Bebida caliente,Norte,1,1500,600,1500,900
+V0402,2026-08-26,C042,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0403,2026-08-13,C032,AGU,Agua sin gas 420 ml,Bebida fría,Norte,1,1000,400,1000,600
+V0404,2026-08-03,C035,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0405,2026-08-28,C011,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0406,2026-08-22,C040,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0407,2026-08-19,C054,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0408,2026-08-16,C029,TIN,Tinto campesino,Bebida caliente,Norte,1,1500,500,1500,1000
+V0409,2026-08-10,C053,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0410,2026-08-19,C003,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0411,2026-08-23,C012,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0412,2026-08-07,C024,TIN,Tinto campesino,Bebida caliente,Centro,1,1500,500,1500,1000
+V0413,2026-08-03,C006,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0414,2026-08-10,C011,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0415,2026-08-15,C011,SAN,Sándwich de pollo,Snack,Norte,1,3000,1500,3000,1500
+V0416,2026-08-24,C049,TEA,Té de hierbas,Bebida caliente,Centro,1,1500,600,1500,900
+V0417,2026-08-22,C050,CAF,Café con leche 9 oz,Bebida caliente,Norte,1,2000,800,2000,1200
+V0418,2026-08-09,C046,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0420,2026-08-15,C002,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0421,2026-08-12,C046,CAF,Café con leche 9 oz,Bebida caliente,Norte,1,2000,800,2000,1200
+V0422,2026-08-10,C005,EMP,Empanada de carne,Snack,Norte,1,2000,900,2000,1100
+V0423,2026-08-04,C020,AGU,Agua sin gas 420 ml,Bebida fría,Centro,1,1000,400,1000,600
+V0424,2026-08-22,C012,EMP,Empanada de carne,Snack,Centro,1,2000,900,2000,1100
+V0425,2026-08-03,C059,GAL,Galleta de avena,Snack,Norte,1,1500,700,1500,800
+V0426,2026-08-02,C033,AGU,Agua sin gas 420 ml,Bebida fría,Norte,2,1000,400,2000,1200
